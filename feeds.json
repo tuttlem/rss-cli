@@ -1,0 +1,509 @@
+{
+  "feeds": [
+    {
+      "title": "Sydney Morning Herald - Latest News",
+      "url": "https://www.smh.com.au/rss/feed.xml",
+      "items": [
+        {
+          "title": "West Wits banks $27.5m as African gold production countdown begins",
+          "link": "https://www.smh.com.au/business/companies/west-wits-banks-27-5m-as-african-gold-production-countdown-begins-20260120-p5nvm0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:36:53+00:00"
+        },
+        {
+          "title": "Australian Open 2026 LIVE updates: Super Sweeny’s stunning win; Sinner through in a walkover; Duckworth locked in a tense battle",
+          "link": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-sinner-chases-three-peat-joint-kasatkina-lead-aussie-charge-keys-shelton-rybakina-osaka-in-action-20260119-p5nv6g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:35:23+00:00"
+        },
+        {
+          "title": "‘We are shattered’: Peter Garrett joins tributes as Midnight Oil’s Rob Hirst dies aged 70",
+          "link": "https://www.smh.com.au/culture/music/midnight-oil-drummer-rob-hirst-dies-after-cancer-battle-20260120-p5nvko.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:34:26+00:00"
+        },
+        {
+          "title": "Convicted paedophile charged following petting zoo allegations",
+          "link": "https://www.smh.com.au/national/queensland/convicted-paedophile-charged-following-petting-zoo-allegations-20260120-p5nvlj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:18:40+00:00"
+        },
+        {
+          "title": "Burglars return to ransacked Melbourne home to steal car",
+          "link": "https://www.smh.com.au/national/burglars-return-to-ransacked-melbourne-home-to-steal-car-20260120-p5nvl5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:00:53+00:00"
+        },
+        {
+          "title": "‘It’s very wrong’: Ukrainian player launches political attack on world No.1 at Australian Open",
+          "link": "https://www.smh.com.au/sport/tennis/it-s-very-wrong-ukrainian-player-launches-political-attack-on-world-no-1-at-australian-open-20260120-p5nvjq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:57:28+00:00"
+        },
+        {
+          "title": "Canadian teenager found dead on K'gari was on trip of a lifetime",
+          "link": "https://www.smh.com.au/national/canadian-teenager-found-dead-on-kgari-was-on-trip-of-a-lifetime-20260120-p5nvly.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:56:41+00:00"
+        },
+        {
+          "title": "Rare chance to see aurora australis",
+          "link": "https://www.smh.com.au/national/rare-chance-to-see-aurora-australis-20260120-p5nvlw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:50+00:00"
+        },
+        {
+          "title": "Sinner rushes to opponent's aid after fall",
+          "link": "https://www.smh.com.au/sport/tennis/sinner-rushes-to-opponents-aid-after-fall-20260120-p5nvlx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:46+00:00"
+        },
+        {
+          "title": "Hunt for four people after man attacked with golf club",
+          "link": "https://www.smh.com.au/national/hunt-for-four-people-after-man-attacked-with-golf-club-20260120-p5nvlv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:52:01+00:00"
+        },
+        {
+          "title": "Convicted paedophile arrested",
+          "link": "https://www.smh.com.au/national/convicted-paedophile-arrested-20260120-p5nvlu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:51:49+00:00"
+        },
+        {
+          "title": "Croatian fans erupt in wild scenes",
+          "link": "https://www.smh.com.au/sport/tennis/croatian-fans-erupt-in-wild-scenes-20260120-p5nvlt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:46:21+00:00"
+        },
+        {
+          "title": "A new signing cost Broncos their next big thing. Hunt believes it was worth it",
+          "link": "https://www.smh.com.au/sport/nrl/a-new-signing-cost-broncos-their-next-big-thing-hunt-believes-it-was-worth-it-20260120-p5nvd3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:43:43+00:00"
+        },
+        {
+          "title": "Camping it up in Coburg: city tourists choosing caravans over hotels",
+          "link": "https://www.smh.com.au/national/victoria/camping-it-up-in-coburg-city-tourists-choosing-caravans-over-hotels-20260113-p5ntq5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "The firey moment that’s become a symbol of resistance for Iran protesters",
+          "link": "https://www.smh.com.au/world/middle-east/the-firey-moment-that-s-become-a-symbol-of-resistance-for-iran-protesters-20260117-p5nuq3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Lockouts and lockdowns cut a generation out of nightclubs. That’s about to end",
+          "link": "https://www.smh.com.au/politics/nsw/lockouts-and-lockdowns-cut-a-generation-out-of-nightclubs-that-s-about-to-end-20260119-p5nv5f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Isabelle’s teacher warned her to skip the Netflix adaptation. It was the secret to HSC success",
+          "link": "https://www.smh.com.au/national/nsw/isabelle-s-teacher-warned-her-to-skip-the-netflix-adaptation-it-was-the-secret-to-hsc-success-20260120-p5nvfu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Daly Cherry-Evans has already helped James Tedesco. Another Rooster will benefit more",
+          "link": "https://www.smh.com.au/sport/nrl/daly-cherry-evans-has-already-helped-james-tedesco-another-rooster-will-benefit-more-20260120-p5nvgz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Maggots rain down on patients at NSW hospital infested with mould",
+          "link": "https://www.smh.com.au/national/nsw/maggots-rain-down-on-patients-at-nsw-hospital-infested-with-mould-20260120-p5nvh2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "‘Worst possible outcome’: Shark attack victim, 12, not expected to survive",
+          "link": "https://www.smh.com.au/national/nsw/worst-possible-outcome-12-year-old-victim-of-shark-attack-not-expected-to-survive-20260120-p5nvkz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:25:40+00:00"
+        }
+      ]
+    },
+    {
+      "title": "ABC News",
+      "url": "https://www.abc.net.au/news/feed/1948/rss.xml",
+      "items": [
+        {
+          "title": "ABC appoints Isabella Higgins as new host of AM program",
+          "link": "https://www.abc.net.au/news/2026-01-20/abc-appoints-isabella-higgins-as-new-host-of-am/106247652",
+          "published": "2026-01-20T01:49:18+00:00"
+        },
+        {
+          "title": "Help the kids unwind with 'slow TV' that promotes quiet and calm",
+          "link": "https://www.abc.net.au/news/2025-12-29/low-stimulation-kids-tv-shows-stream-iview-abckids/106024290",
+          "published": "2025-12-29T06:38:15+00:00"
+        },
+        {
+          "title": "ABC radio host Sabra Lane farewells AM after nine years",
+          "link": "https://www.abc.net.au/news/2025-12-24/sabra-lane-leaves-am-after-nine-years/106176284",
+          "published": "2025-12-23T21:51:31+00:00"
+        },
+        {
+          "title": "ABC Radio stations in Perth to move to FM in 2026",
+          "link": "https://www.abc.net.au/news/2025-12-12/abc-radio-stations-in-perth-will-move-to-fm-in-2026/106121114",
+          "published": "2025-12-11T23:33:21+00:00"
+        },
+        {
+          "title": "Country Hour reporters join listeners in celebrating 80 years of broadcasting",
+          "link": "https://www.abc.net.au/news/2025-12-05/country-hour-reporters-celebrate-80-years/106100556",
+          "published": "2025-12-04T23:07:15+00:00"
+        },
+        {
+          "title": "Three deaths related to asbestos exposure at former ABC site",
+          "link": "https://www.abc.net.au/news/2025-12-02/three-deaths-related-to-asbestos-exposure-at-abc-office/106093636",
+          "published": "2025-12-02T07:26:14+00:00"
+        },
+        {
+          "title": "ABC's Adele Ferguson, Chris Gillett win Gold Walkley for childcare investigation",
+          "link": "https://www.abc.net.au/news/2025-11-28/2025-walkley-awards-winners-list-four-corners-childcare-stories/106076262",
+          "published": "2025-11-27T21:56:16+00:00"
+        },
+        {
+          "title": "When Laws showed up with bourbon in hand, I knew we would get a show",
+          "link": "https://www.abc.net.au/news/2025-11-10/john-laws-viral-interview/105989826",
+          "published": "2025-11-09T21:12:12+00:00"
+        },
+        {
+          "title": "This career-making travel show is making a comeback and casting is open",
+          "link": "https://www.abc.net.au/news/2025-11-05/race-around-the-world-2026-abc-how-to-apply/105941288",
+          "published": "2025-11-04T19:58:41+00:00"
+        },
+        {
+          "title": "US Tech CEO on how agentic AI is transforming workplaces",
+          "link": "https://www.abc.net.au/news/programs/the-business/2025-10-16/us-tech-ceo-says-agentic-ai-can-elevate-coders-to-managers/105901218",
+          "published": "2025-10-16T07:44:03+00:00"
+        },
+        {
+          "title": "Meet Hayden Eastbury, the 17-year-old visiting every ABC bureau in Australia",
+          "link": "https://www.abc.net.au/news/2025-10-10/teen-travels-around-australia-visiting-every-abc-bureau/105839098",
+          "published": "2025-10-09T22:37:53+00:00"
+        },
+        {
+          "title": "ABC spent more than $2.5m defending legal action from Antoinette Lattouf",
+          "link": "https://www.abc.net.au/news/2025-10-08/abc-senate-estimates-hears-cost-of-antoinette-lattouf-case/105868832",
+          "published": "2025-10-08T11:54:26+00:00"
+        },
+        {
+          "title": "Man behind iconic ABC TV programs dies aged 93",
+          "link": "https://www.abc.net.au/news/2025-09-24/graham-white-abc-tv-and-radio-pioneer-dies-at-93/105806806",
+          "published": "2025-09-24T03:28:49+00:00"
+        },
+        {
+          "title": "Judge says ABC 'let down the Australian public' over Lattouf sacking",
+          "link": "https://www.abc.net.au/news/2025-09-24/antoinette-lattouf-costs-decision-in-abc-unlawful-termination/105810052",
+          "published": "2025-09-24T00:32:38+00:00"
+        },
+        {
+          "title": "Has AI impacted your career or life plans? The ABC wants to hear from you",
+          "link": "https://www.abc.net.au/news/2025-09-22/ai-artificial-intelligence-future-job-career-impact/105762606",
+          "published": "2025-09-22T04:26:15+00:00"
+        },
+        {
+          "title": "Michael Charlton, first host of Four Corners, dies aged 98",
+          "link": "https://www.abc.net.au/news/2025-09-04/michael-charlton-dies-aged-98/105733862",
+          "published": "2025-09-04T01:48:31+00:00"
+        },
+        {
+          "title": "Lattouf's lawyers push for $350k penalty over unlawful sacking from ABC",
+          "link": "https://www.abc.net.au/news/2025-09-03/antoinette-lattouf-hearing-on-financial-penalty-abc-may-face/105727992",
+          "published": "2025-09-03T02:48:26+00:00"
+        },
+        {
+          "title": "Robyn Williams’s favourite stories from 50 years of the Science Show",
+          "link": "https://www.abc.net.au/news/science/2025-08-30/the-science-show-50-years-robyn-williams/105706348",
+          "published": "2025-08-30T02:00:00+00:00"
+        },
+        {
+          "title": "ABC to have China correspondent for first time in five years",
+          "link": "https://www.abc.net.au/news/2025-08-28/china-abc-correspondent-allyson-horn/105708506",
+          "published": "2025-08-28T04:41:36+00:00"
+        },
+        {
+          "title": "Listeners find stories of 'resilience and joy' in 20 years of Conversations",
+          "link": "https://www.abc.net.au/news/backstory/2025-08-15/abc-conversations-podcast-best-episodes/105529528",
+          "published": "2025-08-15T03:17:40+00:00"
+        },
+        {
+          "title": "From big laughs to bold stories, the ABC's Logie-winning shows are ready to binge",
+          "link": "https://www.abc.net.au/news/2025-08-02/logie-nominated-abc-show-watch-guide/105533818",
+          "published": "2025-08-01T22:57:33+00:00"
+        },
+        {
+          "title": "'Fine journalist and even better man': Peter Ryan celebrated at Sydney funeral",
+          "link": "https://www.abc.net.au/news/2025-07-25/abc-journalist-peter-ryan-farewelled-at-funeral-in-sydney/105571566",
+          "published": "2025-07-25T05:02:48+00:00"
+        },
+        {
+          "title": "Remembering the 'gentle spirit' who hosted first seasons of Play School",
+          "link": "https://www.abc.net.au/news/2025-07-24/playschool-presenter-donald-macdonald-obituary/105562942",
+          "published": "2025-07-23T19:15:54+00:00"
+        },
+        {
+          "title": "ABC journalist Peter Ryan dies, leaving 'significant legacy'",
+          "link": "https://www.abc.net.au/news/2025-07-21/abc-journalist-peter-ryan-dies/105552762",
+          "published": "2025-07-20T18:58:08+00:00"
+        },
+        {
+          "title": "Lattouf's unlawful sacking exposed the power of lobbying on Australian media",
+          "link": "https://www.abc.net.au/news/2025-06-29/antoinette-lattouf-sacking-exposed-power-of-lobbying-on-media/105463398",
+          "published": "2025-06-29T04:20:40+00:00"
+        }
+      ]
+    },
+    {
+      "title": "The Age - Latest News",
+      "url": "https://www.theage.com.au/rss/feed.xml",
+      "items": [
+        {
+          "title": "West Wits banks $27.5m as African gold production countdown begins",
+          "link": "https://www.theage.com.au/business/companies/west-wits-banks-27-5m-as-african-gold-production-countdown-begins-20260120-p5nvm0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:36:53+00:00"
+        },
+        {
+          "title": "Australian Open 2026 LIVE updates: Super Sweeny’s stunning win; Sinner through in a walkover; Duckworth locked in a tense battle",
+          "link": "https://www.theage.com.au/sport/tennis/australian-open-2026-live-updates-sinner-chases-three-peat-joint-kasatkina-lead-aussie-charge-keys-shelton-rybakina-osaka-in-action-20260119-p5nv6g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:35:23+00:00"
+        },
+        {
+          "title": "‘We are shattered’: Peter Garrett joins tributes as Midnight Oil’s Rob Hirst dies aged 70",
+          "link": "https://www.theage.com.au/culture/music/midnight-oil-drummer-rob-hirst-dies-after-cancer-battle-20260120-p5nvko.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:34:26+00:00"
+        },
+        {
+          "title": "Convicted paedophile charged following petting zoo allegations",
+          "link": "https://www.theage.com.au/national/queensland/convicted-paedophile-charged-following-petting-zoo-allegations-20260120-p5nvlj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:18:40+00:00"
+        },
+        {
+          "title": "Burglars return to ransacked Melbourne home to steal car",
+          "link": "https://www.theage.com.au/national/burglars-return-to-ransacked-melbourne-home-to-steal-car-20260120-p5nvl5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:00:53+00:00"
+        },
+        {
+          "title": "One voice does not speak for all or represent all",
+          "link": "https://www.theage.com.au/national/victoria/one-voice-does-not-speak-for-all-or-represent-all-20260120-p5nvjt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:00:00+00:00"
+        },
+        {
+          "title": "‘It’s very wrong’: Ukrainian player launches political attack on world No.1 at Australian Open",
+          "link": "https://www.theage.com.au/sport/tennis/it-s-very-wrong-ukrainian-player-launches-political-attack-on-world-no-1-at-australian-open-20260120-p5nvjq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:57:28+00:00"
+        },
+        {
+          "title": "Canadian teenager found dead on K'gari was on trip of a lifetime",
+          "link": "https://www.theage.com.au/national/canadian-teenager-found-dead-on-kgari-was-on-trip-of-a-lifetime-20260120-p5nvly.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:56:41+00:00"
+        },
+        {
+          "title": "Rare chance to see aurora australis",
+          "link": "https://www.theage.com.au/national/rare-chance-to-see-aurora-australis-20260120-p5nvlw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:50+00:00"
+        },
+        {
+          "title": "Sinner rushes to opponent's aid after fall",
+          "link": "https://www.theage.com.au/sport/tennis/sinner-rushes-to-opponents-aid-after-fall-20260120-p5nvlx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:46+00:00"
+        },
+        {
+          "title": "Hunt for four people after man attacked with golf club",
+          "link": "https://www.theage.com.au/national/hunt-for-four-people-after-man-attacked-with-golf-club-20260120-p5nvlv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:52:01+00:00"
+        },
+        {
+          "title": "Convicted paedophile arrested",
+          "link": "https://www.theage.com.au/national/convicted-paedophile-arrested-20260120-p5nvlu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:51:49+00:00"
+        },
+        {
+          "title": "Croatian fans erupt in wild scenes",
+          "link": "https://www.theage.com.au/sport/tennis/croatian-fans-erupt-in-wild-scenes-20260120-p5nvlt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:46:21+00:00"
+        },
+        {
+          "title": "A new signing cost Broncos their next big thing. Hunt believes it was worth it",
+          "link": "https://www.theage.com.au/sport/nrl/a-new-signing-cost-broncos-their-next-big-thing-hunt-believes-it-was-worth-it-20260120-p5nvd3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:43:43+00:00"
+        },
+        {
+          "title": "Camping it up in Coburg: city tourists choosing caravans over hotels",
+          "link": "https://www.theage.com.au/national/victoria/camping-it-up-in-coburg-city-tourists-choosing-caravans-over-hotels-20260113-p5ntq5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "The firey moment that’s become a symbol of resistance for Iran protesters",
+          "link": "https://www.theage.com.au/world/middle-east/the-firey-moment-that-s-become-a-symbol-of-resistance-for-iran-protesters-20260117-p5nuq3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Lockouts and lockdowns cut a generation out of nightclubs. That’s about to end",
+          "link": "https://www.theage.com.au/politics/nsw/lockouts-and-lockdowns-cut-a-generation-out-of-nightclubs-that-s-about-to-end-20260119-p5nv5f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Isabelle’s teacher warned her to skip the Netflix adaptation. It was the secret to HSC success",
+          "link": "https://www.theage.com.au/national/nsw/isabelle-s-teacher-warned-her-to-skip-the-netflix-adaptation-it-was-the-secret-to-hsc-success-20260120-p5nvfu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Daly Cherry-Evans has already helped James Tedesco. Another Rooster will benefit more",
+          "link": "https://www.theage.com.au/sport/nrl/daly-cherry-evans-has-already-helped-james-tedesco-another-rooster-will-benefit-more-20260120-p5nvgz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Maggots rain down on patients at NSW hospital infested with mould",
+          "link": "https://www.theage.com.au/national/nsw/maggots-rain-down-on-patients-at-nsw-hospital-infested-with-mould-20260120-p5nvh2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "title": "Brisbane Times - Latest News",
+      "url": "https://www.brisbanetimes.com.au/rss/feed.xml",
+      "items": [
+        {
+          "title": "West Wits banks $27.5m as African gold production countdown begins",
+          "link": "https://www.brisbanetimes.com.au/business/companies/west-wits-banks-27-5m-as-african-gold-production-countdown-begins-20260120-p5nvm0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:36:53+00:00"
+        },
+        {
+          "title": "Australian Open 2026 LIVE updates: Super Sweeny’s stunning win; Sinner through in a walkover; Duckworth locked in a tense battle",
+          "link": "https://www.brisbanetimes.com.au/sport/tennis/australian-open-2026-live-updates-sinner-chases-three-peat-joint-kasatkina-lead-aussie-charge-keys-shelton-rybakina-osaka-in-action-20260119-p5nv6g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:35:23+00:00"
+        },
+        {
+          "title": "‘We are shattered’: Peter Garrett joins tributes as Midnight Oil’s Rob Hirst dies aged 70",
+          "link": "https://www.brisbanetimes.com.au/culture/music/midnight-oil-drummer-rob-hirst-dies-after-cancer-battle-20260120-p5nvko.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:34:26+00:00"
+        },
+        {
+          "title": "Convicted paedophile charged following petting zoo allegations",
+          "link": "https://www.brisbanetimes.com.au/national/queensland/convicted-paedophile-charged-following-petting-zoo-allegations-20260120-p5nvlj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:18:40+00:00"
+        },
+        {
+          "title": "Burglars return to ransacked Melbourne home to steal car",
+          "link": "https://www.brisbanetimes.com.au/national/burglars-return-to-ransacked-melbourne-home-to-steal-car-20260120-p5nvl5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T09:00:53+00:00"
+        },
+        {
+          "title": "‘It’s very wrong’: Ukrainian player launches political attack on world No.1 at Australian Open",
+          "link": "https://www.brisbanetimes.com.au/sport/tennis/it-s-very-wrong-ukrainian-player-launches-political-attack-on-world-no-1-at-australian-open-20260120-p5nvjq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:57:28+00:00"
+        },
+        {
+          "title": "Canadian teenager found dead on K'gari was on trip of a lifetime",
+          "link": "https://www.brisbanetimes.com.au/national/canadian-teenager-found-dead-on-kgari-was-on-trip-of-a-lifetime-20260120-p5nvly.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:56:41+00:00"
+        },
+        {
+          "title": "Rare chance to see aurora australis",
+          "link": "https://www.brisbanetimes.com.au/national/rare-chance-to-see-aurora-australis-20260120-p5nvlw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:50+00:00"
+        },
+        {
+          "title": "Sinner rushes to opponent's aid after fall",
+          "link": "https://www.brisbanetimes.com.au/sport/tennis/sinner-rushes-to-opponents-aid-after-fall-20260120-p5nvlx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:55:46+00:00"
+        },
+        {
+          "title": "Hunt for four people after man attacked with golf club",
+          "link": "https://www.brisbanetimes.com.au/national/hunt-for-four-people-after-man-attacked-with-golf-club-20260120-p5nvlv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:52:01+00:00"
+        },
+        {
+          "title": "Convicted paedophile arrested",
+          "link": "https://www.brisbanetimes.com.au/national/convicted-paedophile-arrested-20260120-p5nvlu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:51:49+00:00"
+        },
+        {
+          "title": "Croatian fans erupt in wild scenes",
+          "link": "https://www.brisbanetimes.com.au/sport/tennis/croatian-fans-erupt-in-wild-scenes-20260120-p5nvlt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:46:21+00:00"
+        },
+        {
+          "title": "A new signing cost Broncos their next big thing. Hunt believes it was worth it",
+          "link": "https://www.brisbanetimes.com.au/sport/nrl/a-new-signing-cost-broncos-their-next-big-thing-hunt-believes-it-was-worth-it-20260120-p5nvd3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:43:43+00:00"
+        },
+        {
+          "title": "Camping it up in Coburg: city tourists choosing caravans over hotels",
+          "link": "https://www.brisbanetimes.com.au/national/victoria/camping-it-up-in-coburg-city-tourists-choosing-caravans-over-hotels-20260113-p5ntq5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "The firey moment that’s become a symbol of resistance for Iran protesters",
+          "link": "https://www.brisbanetimes.com.au/world/middle-east/the-firey-moment-that-s-become-a-symbol-of-resistance-for-iran-protesters-20260117-p5nuq3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Lockouts and lockdowns cut a generation out of nightclubs. That’s about to end",
+          "link": "https://www.brisbanetimes.com.au/politics/nsw/lockouts-and-lockdowns-cut-a-generation-out-of-nightclubs-that-s-about-to-end-20260119-p5nv5f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Isabelle’s teacher warned her to skip the Netflix adaptation. It was the secret to HSC success",
+          "link": "https://www.brisbanetimes.com.au/national/nsw/isabelle-s-teacher-warned-her-to-skip-the-netflix-adaptation-it-was-the-secret-to-hsc-success-20260120-p5nvfu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Daly Cherry-Evans has already helped James Tedesco. Another Rooster will benefit more",
+          "link": "https://www.brisbanetimes.com.au/sport/nrl/daly-cherry-evans-has-already-helped-james-tedesco-another-rooster-will-benefit-more-20260120-p5nvgz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "Maggots rain down on patients at NSW hospital infested with mould",
+          "link": "https://www.brisbanetimes.com.au/national/nsw/maggots-rain-down-on-patients-at-nsw-hospital-infested-with-mould-20260120-p5nvh2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:30:00+00:00"
+        },
+        {
+          "title": "‘Worst possible outcome’: Shark attack victim, 12, not expected to survive",
+          "link": "https://www.brisbanetimes.com.au/national/nsw/worst-possible-outcome-12-year-old-victim-of-shark-attack-not-expected-to-survive-20260120-p5nvkz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "published": "2026-01-20T08:25:40+00:00"
+        }
+      ]
+    },
+    {
+      "title": "Business News - Latest Headlines",
+      "url": "https://www.businessnews.com.au/rssfeed/latest.rss",
+      "items": [
+        {
+          "title": "At Close of Business podcast January 20 2026",
+          "link": "https://www.businessnews.com.au/article/At-Close-of-Business-podcast-January-20-2026",
+          "published": "2026-01-20T07:58:48+00:00"
+        },
+        {
+          "title": "South Perth office building sells for $5.8m",
+          "link": "https://www.businessnews.com.au/article/South-Perth-office-building-sells-for-58m",
+          "published": "2026-01-20T07:34:37+00:00"
+        },
+        {
+          "title": "Aussie shares extend losses as banks and BHP slide",
+          "link": "https://www.businessnews.com.au/article/Aussie-shares-extend-losses-as-banks-and-BHP-slide",
+          "published": "2026-01-20T07:26:46+00:00"
+        },
+        {
+          "title": "Boss chair announces departure",
+          "link": "https://www.businessnews.com.au/article/Boss-chair-announces-departure",
+          "published": "2026-01-20T07:20:00+00:00"
+        },
+        {
+          "title": "Perth-founded Thermomix firm to exit WA",
+          "link": "https://www.businessnews.com.au/article/Perth-founded-Thermomix-firm-to-exit-WA",
+          "published": "2026-01-20T07:14:05+00:00"
+        },
+        {
+          "title": "Tim Picton's death is a reminder: Whitby",
+          "link": "https://www.businessnews.com.au/article/Tim-Picton-s-death-is-a-reminder-Whitby",
+          "published": "2026-01-20T06:52:29+00:00"
+        },
+        {
+          "title": "ANALYSIS: Fallout from China’s beef tariff",
+          "link": "https://www.businessnews.com.au/article/ANALYSIS-Fallout-from-China-s-beef-tariff",
+          "published": "2026-01-20T06:24:02+00:00"
+        },
+        {
+          "title": "Panel approves Martin family’s Bunker Bay chalets",
+          "link": "https://www.businessnews.com.au/article/Panel-approves-Martin-family-s-Bunker-Bay-chalets",
+          "published": "2026-01-20T06:15:43+00:00"
+        },
+        {
+          "title": "Perth's Fringe World tipped to draw 500k attendees",
+          "link": "https://www.businessnews.com.au/article/Perth-s-Fringe-World-tipped-to-draw-500k-attendees",
+          "published": "2026-01-20T05:58:00+00:00"
+        },
+        {
+          "title": "Another gun buyback coming",
+          "link": "https://www.businessnews.com.au/article/Another-gun-buyback-coming",
+          "published": "2026-01-20T05:24:11+00:00"
+        }
+      ]
+    }
+  ]
+}
